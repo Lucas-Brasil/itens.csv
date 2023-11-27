@@ -1,0 +1,193 @@
+Frase,Pergunta,Item,Grupo
+O segurança protegeu por três horas a balada.,O evento foi concluido?,ItemA,1
+O segurança protegeu em três horas a balada.,O evento foi concluido?,ItemB,2
+José vigiou por um dia na cabine.,O evento foi concluido?,ItemA,3
+José vigiou em um dia na cabine.,O evento foi concluido?,ItemB,4
+Maria pesquisou por minutos a promoção.,O evento foi concluido?,ItemA,4
+Maria pesquisou em minutos a promoção.,O evento foi concluido?,ItemB,3
+Ronaldo resistiu por seis horas no trânsito.,O evento foi concluido?,ItemA,2
+Ronaldo resistiu em seis horas no trânsito.,O evento foi concluido?,ItemB,1
+Silvia reclamou por três horas na vizinha.,O evento foi concluido?,ItemA,1
+Silvia reclamou em três horas na vizinha.,O evento foi concluido?,ItemB,2
+Rute conheceu por semanas o litoral.,O evento foi concluido?,ItemA,3
+Rute conheceu em semanas o litoral.,O evento foi concluido?,ItemB,4
+A professora explicou por minutos a tarefa.,O evento foi concluido?,ItemA,4
+A professora explicou em minutos a tarefa.,O evento foi concluido?,ItemB,3
+O monitor corrigiu por um dia os trabalhos.,O evento foi concluido?,ItemA,2
+O monitor corrigiu em um dia os trabalhos.,O evento foi concluido?,ItemB,1
+Jorge caminhou por seis horas no calçadão.,O evento foi concluido?,ItemA,1
+Jorge caminhou em seis horas no calçadão.,O evento foi concluido?,ItemB,2
+Ana reclamou por dez dias da comida.,O evento foi concluido?,ItemA,3
+Ana reclamou em dez dias da comida.,O evento foi concluido?,ItemB,4
+Sandra percorreu por minutos o pantanal.,O evento foi concluido?,ItemA,4
+Sandra percorreu em minutos o pantanal.,O evento foi concluido?,ItemB,3
+Julia investiu por um dia no negócio.,O evento foi concluido?,ItemA,2
+Julia investiu em um dia no negócio.,O evento foi concluido?,ItemB,1
+Gael assistiu por três horas a novela.,O evento foi concluido?,ItemA,1
+Gael assistiu em três horas a novela.,O evento foi concluido?,ItemB,2
+Pedro meditou por minutos no seu quarto.,O evento foi concluido?,ItemA,3
+Pedro meditou em minutos no seu quarto.,O evento foi concluido?,ItemB,4
+Everton procurou por um dia no seu quarto.,O evento foi concluido?,ItemA,4
+Everton procurou em um dia no seu quarto.,O evento foi concluido?,ItemB,3
+O Padre estudou por três dias Religião.,O evento foi concluido?,ItemA,2
+O Padre estudou em três dias Religião.,O evento foi concluido?,ItemB,1
+A moça garantiu por seis horas seu ingresso.,O evento foi concluido?,ItemC,1
+A moça garantiu em seis horas seu ingresso.,O evento foi concluido?,ItemD,2
+O arquiteto reformou por semanas o quiosque.,O evento foi concluido?,ItemC,3
+O arquiteto reformou em semanas o quiosque.,O evento foi concluido?,ItemD,4
+O peixe estragou por três horas no açougue.,O evento foi concluido?,ItemC,4
+O peixe estragou em três horas no açougue.,O evento foi concluido?,ItemD,3
+Dona Conceição confeitou por dez horas os quitutes. ,O evento foi concluido?,ItemC,2
+Dona Conceição confeitou em dez horas os quitutes. ,O evento foi concluido?,ItemD,1
+Ana separou por três horas os brinquedos.,O evento foi concluido?,ItemC,1
+Ana separou em três horas os brinquedos.,O evento foi concluido?,ItemD,2
+Catarina engoliu por minutos o macarrão.,O evento foi concluido?,ItemC,3
+Catarina engoliu em minutos o macarrão.,O evento foi concluido?,ItemD,4
+O carro obstruiu por três horas a passagem.,O evento foi concluido?,ItemC,4
+O carro obstruiu em três horas a passagem.,O evento foi concluido?,ItemD,3
+Matheus concluiu por dez horas o trabalho.,O evento foi concluido?,ItemC,2
+Matheus concluiu em dez horas o trabalho.,O evento foi concluido?,ItemD,1
+Carolina declamou por minutos no teatro. ,O evento foi concluido?,ItemC,1
+Carolina declamou em minutos no teatro. ,O evento foi concluido?,ItemD,2
+Joana demoliu por três horas o barraco.,O evento foi concluido?,ItemC,3
+Joana demoliu em três horas o barraco.,O evento foi concluido?,ItemD,4
+Carla encontrou por minutos o amigo. ,O evento foi concluido?,ItemC,4
+Carla encontrou em minutos o amigo. ,O evento foi concluido?,ItemD,3
+Francisco decidiu por três horas suas compras.,O evento foi concluido?,ItemC,2
+Francisco decidiu em três horas suas compras.,O evento foi concluido?,ItemD,1
+Lia terminou por dez horas o seu livro.,O evento foi concluido?,ItemC,1
+Lia terminou em dez horas o seu livro.,O evento foi concluido?,ItemD,2
+Bia espirrou por minutos no teatro.,O evento foi concluido?,ItemC,3
+Bia espirrou em minutos no teatro.,O evento foi concluido?,ItemD,4
+Luna competiu por minutos o torneio.,O evento foi concluido?,ItemC,4
+Luna competiu em minutos o torneio.,O evento foi concluido?,ItemD,3
+José copiou por minutos no caderno.,O evento foi concluido?,ItemC,2
+José copiou em minutos no caderno.,O evento foi concluido?,ItemD,1
+Fernanda brigou de faca na disputa.,O evento foi concluido?,ItemE,1
+Matheus emprestou dinheiro pro agiota.,O evento foi concluido?,ItemE,1
+Aime sonhou com ovelhas de noite.,O evento foi concluido?,ItemE,1
+Pedro apostou no cavalo mais bonito.,O evento foi concluido?,ItemE,1
+Anderson leu muito para a prova de hoje.,O evento foi concluido?,ItemE,1
+Patricia concorreu a vaga de emprego.,O evento foi concluido?,ItemE,1
+André foi promovido no exército ontem.,O evento foi concluido?,ItemE,1
+Sueli caiu na rua da igreja de manhã.,O evento foi concluido?,ItemE,1
+Fátima ganhou um prêmio no bingo.,O evento foi concluido?,ItemE,1
+Juliete foi convidada para a festa.,O evento foi concluido?,ItemE,1
+Xuxa lançou músicas novas de madrugada.,O evento foi concluido?,ItemE,1
+Flávio fez um gol na partida de ontem.,O evento foi concluido?,ItemE,1
+Henrique dançou muito de noite na matinê.,O evento foi concluido?,ItemE,1
+Luan jogou videogame à tarde.,O evento foi concluido?,ItemE,1
+Luiz assistiu o filme no cinema.,O evento foi concluido?,ItemE,1
+Augusto comprou os tênis novos da loja.,O evento foi concluido?,ItemE,1
+Antonio escreveu um livro de poemas.,O evento foi concluido?,ItemE,1
+Rosa chegou atrasada no trabalho.,O evento foi concluido?,ItemE,1
+Jurema passeou à tarde no parque.,O evento foi concluido?,ItemE,1
+Tiago assistiu as aulas do curso.,O evento foi concluido?,ItemE,1
+Mariluce tomou a vacina de manhã.,O evento foi concluido?,ItemE,1
+Cesár bebeu muito de noite na balada.,O evento foi concluido?,ItemE,1
+Chico traiu sua namorada de novo.,O evento foi concluido?,ItemE,1
+Gabriela escreveu cartas para amigos.,O evento foi concluido?,ItemE,1
+Fernando abraçou a velha de bengala.,O evento foi concluido?,ItemE,1
+Ronivon revelou sua nova canção de amor. ,O evento foi concluido?,ItemE,1
+Tadeu abriu um novo escritório.,O evento foi concluido?,ItemE,1
+Vitoria atuou na peça de teatro.,O evento foi concluido?,ItemE,1
+Amanda ganhou o campeonato de corrida.,O evento foi concluido?,ItemE,1
+Eliezer descobriu a fofoca de Ana.,O evento foi concluido?,ItemE,1
+Adrianne cozinhou uma receita nova.,O evento foi concluido?,ItemE,1
+Antonia beijou seu pretendente na festa.,O evento foi concluido?,ItemE,1
+Fernanda brigou de faca na disputa.,O evento foi concluido?,ItemE,2
+Matheus emprestou dinheiro pro agiota.,O evento foi concluido?,ItemE,2
+Aime sonhou com ovelhas de noite.,O evento foi concluido?,ItemE,2
+Pedro apostou no cavalo mais bonito.,O evento foi concluido?,ItemE,2
+Anderson leu muito para a prova de hoje.,O evento foi concluido?,ItemE,2
+Patricia concorreu a vaga de emprego.,O evento foi concluido?,ItemE,2
+André foi promovido no exército ontem.,O evento foi concluido?,ItemE,2
+Sueli caiu na rua da igreja de manhã.,O evento foi concluido?,ItemE,2
+Fátima ganhou um prêmio no bingo.,O evento foi concluido?,ItemE,2
+Juliete foi convidada para a festa.,O evento foi concluido?,ItemE,2
+Xuxa lançou músicas novas de madrugada.,O evento foi concluido?,ItemE,2
+Flávio fez um gol na partida de ontem.,O evento foi concluido?,ItemE,2
+Henrique dançou muito de noite na matinê.,O evento foi concluido?,ItemE,2
+Luan jogou videogame à tarde.,O evento foi concluido?,ItemE,2
+Luiz assistiu o filme no cinema.,O evento foi concluido?,ItemE,2
+Augusto comprou os tênis novos da loja.,O evento foi concluido?,ItemE,2
+Antonio escreveu um livro de poemas.,O evento foi concluido?,ItemE,2
+Rosa chegou atrasada no trabalho.,O evento foi concluido?,ItemE,2
+Jurema passeou à tarde no parque.,O evento foi concluido?,ItemE,2
+Tiago assistiu as aulas do curso.,O evento foi concluido?,ItemE,2
+Mariluce tomou a vacina de manhã.,O evento foi concluido?,ItemE,2
+Cesár bebeu muito de noite na balada.,O evento foi concluido?,ItemE,2
+Chico traiu sua namorada de novo.,O evento foi concluido?,ItemE,2
+Gabriela escreveu cartas para amigos.,O evento foi concluido?,ItemE,2
+Fernando abraçou a velha de bengala.,O evento foi concluido?,ItemE,2
+Ronivon revelou sua nova canção de amor. ,O evento foi concluido?,ItemE,2
+Tadeu abriu um novo escritório.,O evento foi concluido?,ItemE,2
+Vitoria atuou na peça de teatro.,O evento foi concluido?,ItemE,2
+Amanda ganhou o campeonato de corrida.,O evento foi concluido?,ItemE,2
+Eliezer descobriu a fofoca de Ana.,O evento foi concluido?,ItemE,2
+Adrianne cozinhou uma receita nova.,O evento foi concluido?,ItemE,2
+Antonia beijou seu pretendente na festa.,O evento foi concluido?,ItemE,2
+Fernanda brigou de faca na disputa.,O evento foi concluido?,ItemE,3
+Matheus emprestou dinheiro pro agiota.,O evento foi concluido?,ItemE,3
+Aime sonhou com ovelhas de noite.,O evento foi concluido?,ItemE,3
+Pedro apostou no cavalo mais bonito.,O evento foi concluido?,ItemE,3
+Anderson leu muito para a prova de hoje.,O evento foi concluido?,ItemE,3
+Patricia concorreu a vaga de emprego.,O evento foi concluido?,ItemE,3
+André foi promovido no exército ontem.,O evento foi concluido?,ItemE,3
+Sueli caiu na rua da igreja de manhã.,O evento foi concluido?,ItemE,3
+Fátima ganhou um prêmio no bingo.,O evento foi concluido?,ItemE,3
+Juliete foi convidada para a festa.,O evento foi concluido?,ItemE,3
+Xuxa lançou músicas novas de madrugada.,O evento foi concluido?,ItemE,3
+Flávio fez um gol na partida de ontem.,O evento foi concluido?,ItemE,3
+Henrique dançou muito de noite na matinê.,O evento foi concluido?,ItemE,3
+Luan jogou videogame à tarde.,O evento foi concluido?,ItemE,3
+Luiz assistiu o filme no cinema.,O evento foi concluido?,ItemE,3
+Augusto comprou os tênis novos da loja.,O evento foi concluido?,ItemE,3
+Antonio escreveu um livro de poemas.,O evento foi concluido?,ItemE,3
+Rosa chegou atrasada no trabalho.,O evento foi concluido?,ItemE,3
+Jurema passeou à tarde no parque.,O evento foi concluido?,ItemE,3
+Tiago assistiu as aulas do curso.,O evento foi concluido?,ItemE,3
+Mariluce tomou a vacina de manhã.,O evento foi concluido?,ItemE,3
+Cesár bebeu muito de noite na balada.,O evento foi concluido?,ItemE,3
+Chico traiu sua namorada de novo.,O evento foi concluido?,ItemE,3
+Gabriela escreveu cartas para amigos.,O evento foi concluido?,ItemE,3
+Fernando abraçou a velha de bengala.,O evento foi concluido?,ItemE,3
+Ronivon revelou sua nova canção de amor. ,O evento foi concluido?,ItemE,3
+Tadeu abriu um novo escritório.,O evento foi concluido?,ItemE,3
+Vitoria atuou na peça de teatro.,O evento foi concluido?,ItemE,3
+Amanda ganhou o campeonato de corrida.,O evento foi concluido?,ItemE,3
+Eliezer descobriu a fofoca de Ana.,O evento foi concluido?,ItemE,3
+Adrianne cozinhou uma receita nova.,O evento foi concluido?,ItemE,3
+Antonia beijou seu pretendente na festa.,O evento foi concluido?,ItemE,3
+Fernanda brigou de faca na disputa.,O evento foi concluido?,ItemE,4
+Matheus emprestou dinheiro pro agiota.,O evento foi concluido?,ItemE,4
+Aime sonhou com ovelhas de noite.,O evento foi concluido?,ItemE,4
+Pedro apostou no cavalo mais bonito.,O evento foi concluido?,ItemE,4
+Anderson leu muito para a prova de hoje.,O evento foi concluido?,ItemE,4
+Patricia concorreu a vaga de emprego.,O evento foi concluido?,ItemE,4
+André foi promovido no exército ontem.,O evento foi concluido?,ItemE,4
+Sueli caiu na rua da igreja de manhã.,O evento foi concluido?,ItemE,4
+Fátima ganhou um prêmio no bingo.,O evento foi concluido?,ItemE,4
+Juliete foi convidada para a festa.,O evento foi concluido?,ItemE,4
+Xuxa lançou músicas novas de madrugada.,O evento foi concluido?,ItemE,4
+Flávio fez um gol na partida de ontem.,O evento foi concluido?,ItemE,4
+Henrique dançou muito de noite na matinê.,O evento foi concluido?,ItemE,4
+Luan jogou videogame à tarde.,O evento foi concluido?,ItemE,4
+Luiz assistiu o filme no cinema.,O evento foi concluido?,ItemE,4
+Augusto comprou os tênis novos da loja.,O evento foi concluido?,ItemE,4
+Antonio escreveu um livro de poemas.,O evento foi concluido?,ItemE,4
+Rosa chegou atrasada no trabalho.,O evento foi concluido?,ItemE,4
+Jurema passeou à tarde no parque.,O evento foi concluido?,ItemE,4
+Tiago assistiu as aulas do curso.,O evento foi concluido?,ItemE,4
+Mariluce tomou a vacina de manhã.,O evento foi concluido?,ItemE,4
+Cesár bebeu muito de noite na balada.,O evento foi concluido?,ItemE,4
+Chico traiu sua namorada de novo.,O evento foi concluido?,ItemE,4
+Gabriela escreveu cartas para amigos.,O evento foi concluido?,ItemE,4
+Fernando abraçou a velha de bengala.,O evento foi concluido?,ItemE,4
+Ronivon revelou sua nova canção de amor. ,O evento foi concluido?,ItemE,4
+Tadeu abriu um novo escritório.,O evento foi concluido?,ItemE,4
+Vitoria atuou na peça de teatro.,O evento foi concluido?,ItemE,4
+Amanda ganhou o campeonato de corrida.,O evento foi concluido?,ItemE,4
+Eliezer descobriu a fofoca de Ana.,O evento foi concluido?,ItemE,4
+Adrianne cozinhou uma receita nova.,O evento foi concluido?,ItemE,4
+Antonia beijou seu pretendente na festa.,O evento foi concluido?,ItemE,4
